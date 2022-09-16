@@ -9,7 +9,7 @@ function App() {
           className="App-logo"
           alt="logo"
         />
-        <p>Será que esse texto está correto?</p>
+        <p>Será que esse texto está correto? veremos</p>
       </header>
     </div>
   );
